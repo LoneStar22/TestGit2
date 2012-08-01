@@ -39,6 +39,7 @@
     <Compile Include="MyNewClass.cs" />
     <Compile Include="MyNewFeature.cs" />
     <Compile Include="MyNewFeature2.cs" />
+    <Compile Include="MyNewFeature3.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
