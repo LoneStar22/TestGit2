@@ -8,12 +8,11 @@ using System;
 
 namespace TestGit2
 {
-	class MainClass
+	public class MyNewClass
 	{
-		public static void Main(string[] args)
+		public MyNewClass()
 		{
-			Console.WriteLine("Hello World!");
-			Console.WriteLine("This is gonna change ev'rything");
 		}
 	}
 }
+
